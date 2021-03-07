@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "text": "It is raining cats and dogs",
+    "emojis": "☔🐈🐈🐕🐕",
+    "description": "The English idiom 'it is raining cats and dogs', used to describe particularly heavy rain, is of unknown etymology. The phrase has been used at least since the 17th century.",
+    "origin": "🇬🇧",
+    "link": "https://en.wikipedia.org/wiki/Raining_cats_and_dogs"
+  },
+  {
+    "id": 1,
+    "text": "Does a bear shit in the woods?",
+    "emojis": "🐻💩🌳🌲❓",
+    "description": "Phrase employed to sarcastically imply that the answer to the question being posed is indubitably 'yes'.",
+    "origin": "🇺🇸",
+    "link": "https://wordhistories.net/2019/12/29/bear-shit-woods/"
+  },
+  {
+    "id": 2,
+    "text": "Not my cup of tea",
+    "emojis": "🙅️🍵️",
+    "description": "When something is not your cup of tea, it is not something you like or prefer; not something one would choose.",
+    "origin": "🇬🇧",
+    "link": "https://www.idioms.online/not-my-cup-of-tea/"
+  },
+  {
+    "id": 3,
+    "text": "Cat got your tongue?",
+    "emojis": "🐱️✋️👅️❓️",
+    "description": "Used to ask someone why he or she is not saying anything",
+    "origin": "🇬🇧",
+    "link": "https://www.theidioms.com/cat-got-your-tongue/"
+  },
+  {
+    "id": 4,
+    "text": "Once in a blue moon",
+    "emojis": "☝️🔵️🌙️",
+    "description": "Very rarely",
+    "origin": "🇬🇧",
+    "link": "https://interestingengineering.com/the-reason-why-we-say-once-in-a-blue-moon"
+  },
+  {
+    "id": 5,
+    "text": "The world is your oyster",
+    "emojis": "🌎️✋️🦪",
+    "description": "You can achieve anything you wish in life or go anywhere because you have the opportunity or ability to do so.",
+    "origin": "🇬🇧",
+    "link": "https://www.youtube.com/watch?v=fSXMvqWQd48"
+  }
+]

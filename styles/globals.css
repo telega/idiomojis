@@ -1,9 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+html {
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #fee2e2;
+  background-repeat: no-repeat;
+  background: -webkit-linear-gradient(to left top, #dc2626, #fee2e2);
+  background: -moz-linear-gradient(to left top, #dc2626, #fee2e2);
+  background: -ms-linear-gradient(to left top, #dc2626, #fee2e2);
+  background: -o-linear-gradient(to left top, #dc2626, #fee2e2);
+  background: linear-gradient(to left top, #dc2626, #fee2e2);
 }
 
 a {
@@ -13,4 +32,14 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.tooltip {
+  @apply invisible;
+  @apply absolute;
+}
+
+.has-tooltip:hover .tooltip {
+  @apply visible;
+  @apply z-50;
 }
