@@ -46,5 +46,77 @@
     "description": "You can achieve anything you wish in life or go anywhere because you have the opportunity or ability to do so.",
     "origin": "🇬🇧",
     "link": "https://www.youtube.com/watch?v=fSXMvqWQd48"
+  },
+  {
+    "id": 6,
+    "text": "When pigs fly",
+    "emojis": "🐖️🐖️🛩️",
+    "description": "A way of saying that something will never happen. The phrase is often used for humorous effect, to scoff at over-ambition. ",
+    "origin": "🇬🇧",
+    "link": "https://en.wikipedia.org/wiki/When_pigs_fly"
+  },
+  {
+    "id": 7,
+    "text": "Crying over spilt milk",
+    "emojis": "😢️💦️🍼️",
+    "description": "To worry about unfortunate events which have already happened and which cannot be changed.",
+    "origin": "🇬🇧",
+    "link": "https://en.wiktionary.org/wiki/cry_over_spilt_milk"
+  },
+  {
+    "id": 8,
+    "text": "Smell a rat",
+    "emojis": "👃️💨🐀️",
+    "description": "To detect something suspicious",
+    "origin": "🇬🇧",
+    "link": "https://wordhistories.net/2016/06/26/smell-a-rat/"
+  },
+  {
+    "id": 9,
+    "text": "Speak of the devil",
+    "emojis": "💬️😈",
+    "description": "Used when an object of discussion unexpectedly becomes present during the conversation.",
+    "origin": "🇬🇧",
+    "link": "https://en.wikipedia.org/wiki/Speak_of_the_devil"
+  },
+  {
+    "id": 10,
+    "text": "Beating a dead horse",
+    "emojis": "🤜️☠️🐴️",
+    "description": "Means a particular effort is a waste of time as there will be no outcome, such as in the example of flogging a dead horse, which will not cause it to do any useful work.",
+    "origin": "🇬🇧",
+    "link": "https://en.wikipedia.org/wiki/Flogging_a_dead_horse"
+  },
+  {
+    "id": 11,
+    "text": "Crying wolf",
+    "emojis": "😢️🐺️",
+    "description": "To give a false alarm, with the result that subsequent true claims are disbelieved.",
+    "origin": "🇬🇷️",
+    "link": "https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf"
+  },
+  {
+    "id": 12,
+    "text": "Flying Chicken, jumping dog",
+    "emojis": "🛩️🐔️⬆️🐶️",
+    "description": "Panic resulting in a mess. Chaos.",
+    "origin": "🇨🇳️",
+    "link": "http://student-writing.com/chengyu/gou/777066.html"
+  },
+  {
+    "id": 13,
+    "text": "A shot in the arm",
+    "emojis": "💉💪",
+    "description": "A stimulus",
+    "origin": "🇺🇲️",
+    "link": "https://grammarist.com/idiom/a-shot-in-the-arm"
+  },
+  {
+    "id": 14,
+    "text": "Taking candy from a baby",
+    "emojis": "🍭✋👶",
+    "description": "Very easy",
+    "origin": "🇺🇲️",
+    "link": "https://wordhistories.net/2018/09/29/taking-candy-baby/"
   }
 ]

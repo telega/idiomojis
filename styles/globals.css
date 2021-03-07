@@ -16,13 +16,13 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-color: #fee2e2;
+  background-color: #fef2f2;
   background-repeat: no-repeat;
-  background: -webkit-linear-gradient(to left top, #dc2626, #fee2e2);
-  background: -moz-linear-gradient(to left top, #dc2626, #fee2e2);
-  background: -ms-linear-gradient(to left top, #dc2626, #fee2e2);
-  background: -o-linear-gradient(to left top, #dc2626, #fee2e2);
-  background: linear-gradient(to left top, #dc2626, #fee2e2);
+  background: -webkit-linear-gradient(to left top, #fca5a5, #fef2f2);
+  background: -moz-linear-gradient(to left top, #fca5a5, #fef2f2);
+  background: -ms-linear-gradient(to left top, #fca5a5, #fef2f2);
+  background: -o-linear-gradient(to left top, #fca5a5, #fef2f2);
+  background: linear-gradient(to left top, #fca5a5, #fef2f2);
 }
 
 a {

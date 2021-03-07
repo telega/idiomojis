@@ -2,7 +2,7 @@ import { FC, useState, useEffect } from 'react';
 import { sample } from 'lodash';
 const straplines = require('../public/straplines.json');
 
-const TITLE = 'Welcome to Idiomojis!';
+const TITLE = 'Welcome to Idiomojis';
 
 export const Header: FC<any> = () => {
   const [strapline, setStrapline] = useState('');
