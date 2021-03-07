@@ -3,7 +3,10 @@ import { FC } from 'react';
 export const PseudoFooter: FC<any> = () => (
   <footer>
     <div className="flex lg:flex-row md:flex-col">
-      <a className="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none cursor-pointer">
+      <a
+        href="https://github.com/telega/idiomojis"
+        className="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none cursor-pointer"
+      >
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="currentColor"
