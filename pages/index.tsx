@@ -1,14 +1,14 @@
-import { FC, useState, useEffect } from 'react';
-import Head from 'next/head';
-import { IdiomojiData } from '../interfaces/IdiomojiData';
-import { ResultContainer } from '../components/result/ResultContainer';
-import { sample } from 'lodash';
-import { Header } from '../components/Header';
-import { SearchSection } from '../components/search/SearchSection';
-import { PseudoFooter } from '../components/PseudoFooter';
-import { RandomButton } from '../components/RandomButton';
+import { FC, useState, useEffect } from "react";
+import Head from "next/head";
+import { IdiomojiData } from "../interfaces/IdiomojiData";
+import { ResultContainer } from "../components/result/ResultContainer";
+import { sample } from "lodash";
+import { Header } from "../components/Header";
+import { SearchSection } from "../components/search/SearchSection";
+import { PseudoFooter } from "../components/PseudoFooter";
+import { RandomButton } from "../components/RandomButton";
 
-const data: IdiomojiData[] = require('../public/data.json');
+const data: IdiomojiData[] = require("../public/data.json");
 
 const Home: FC = () => {
   const [results, setResults] = useState<IdiomojiData[]>([]);
@@ -24,7 +24,7 @@ const Home: FC = () => {
         <title>Idiomojis</title>
         <link
           rel="icon"
-          href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🤯️</text></svg>"
+          href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>😀</text></svg>"
         />
       </Head>
 

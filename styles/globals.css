@@ -23,6 +23,7 @@ html {
   background: -ms-linear-gradient(to left top, #fca5a5, #fef2f2);
   background: -o-linear-gradient(to left top, #fca5a5, #fef2f2);
   background: linear-gradient(to left top, #fca5a5, #fef2f2);
+  background-attachment: fixed;
 }
 
 a {
