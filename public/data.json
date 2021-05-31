@@ -108,7 +108,7 @@
     "text": "A shot in the arm",
     "emojis": "💉💪",
     "description": "A stimulus",
-    "origin": "🇺🇲️",
+    "origin": "🇺🇸️",
     "link": "https://grammarist.com/idiom/a-shot-in-the-arm"
   },
   {
@@ -116,7 +116,15 @@
     "text": "Taking candy from a baby",
     "emojis": "🍭✋👶",
     "description": "Very easy",
-    "origin": "🇺🇲️",
+    "origin": "🇺🇸",
     "link": "https://wordhistories.net/2018/09/29/taking-candy-baby/"
+  },
+  {
+    "id": 15,
+    "text": "Egg on your face",
+    "emojis": "🥚😳",
+    "description": "To look foolish",
+    "origin": "🇺🇸",
+    "link": "http://www.worldwidewords.org/qa/qa-egg2.htm"
   }
 ]
