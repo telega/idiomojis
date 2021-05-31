@@ -44,3 +44,8 @@ a {
   @apply visible;
   @apply z-50;
 }
+
+img.emoji {
+  min-height: 2rem;
+  min-width: 2rem;
+}
